@@ -1,0 +1,53 @@
+.site-logo{
+    width: 270px;
+}
+.navbar-light .navbar-nav .nav-link{
+    font-weight: 700;
+}
+.navbar-light .navbar-nav .nav-item{
+    margin: 0 13px;
+}
+.card{
+    border: none;
+}
+.crd-ttle{
+    font-size: 37px; color: orange;
+}
+.winter{
+    color:#192a56;
+}
+.shoe-name{
+    color: #1d3675; font-size: 27px; font-weight: 800;
+}
+.crd-price{
+    color: orange; text-decoration: none; font-size: 30px; font-weight: bold;
+}
+.shop-img{
+    width: 100%;
+}
+.shop-card-img{
+    width: 100%;
+}
+.form-pics{
+  
+}
+.order-pic{
+    text-align: center; background-color: #f1d8d8; padding-bottom: 10px;
+}
+.order-pic img{
+    width: 30%; margin: 0 auto; border-radius: 500px 270px 530px 20px; cursor: progress;
+}
+@media and screen (min-width:576px){
+    .shop-card-img{
+        width:40%;
+    }
+}
+footer{
+    text-align: center;  padding: 20px ; font-size: 12px;
+}
+/* for small devices */
+@media and screen (max-width: 576){
+    .welcome{
+        width:100%;
+    }
+}
